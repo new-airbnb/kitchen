@@ -14,7 +14,7 @@ As a student who looking for rent in the coming term, I want to search for a roo
 
 Acceptance criteria:
 ----
- Establish the  platform for the tenant . Including the expected area, the bed type and number needed, the expected rental time and rent price.
+* Establish the  platform for the tenant . Including the expected area, the bed type and number needed, the expected rental time and rent price.
 
 
 Definition of done:
