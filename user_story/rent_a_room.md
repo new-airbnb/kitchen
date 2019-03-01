@@ -9,7 +9,7 @@ birana
 
 Description:
 ---- 
-As a student who looking for rent in the coming term, I want to search for a room through the website. So that I can access to plent of rooms for rent and choose my favorite. 
+As a student who looking for rent in the coming term, I want to search for a room through the website. So that I can access to plenty of rooms for rent and choose my favorite. 
 
 
 Acceptance criteria:
